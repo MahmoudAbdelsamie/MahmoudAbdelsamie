@@ -19,9 +19,9 @@ I am a dedicated Junior Backend Developer specializing in Node.js. With a strong
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudAbdelsamie&theme=radical)
 
-### 📈 Activity Graph
+<!-- ### 📈 Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoudAbdelsamie&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoudAbdelsamie&theme=react-dark&hide_border=true&area=true) -->
 
 ## 🛠️ Technologies & Tools
 
