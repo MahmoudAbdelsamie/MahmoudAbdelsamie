@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am a dedicated Junior Backend Developer specializing in Node.js. With a strong foundation in JavaScript, Express, and various database systems, I am passionate about building efficient and scalable backend services.
+I am a dedicated Software Developer specializing in Node.js. With a strong foundation in JavaScript, Express, and various database systems, I am passionate about building efficient and scalable backend services.
 
 - 🌱 Currently learning: Advanced database optimization and cloud services.
 - 💬 Ask me about: Node.js, Express, SQL, PostgreSQL, MongoDB, Database Design, Web Apps, Product Development, and Startups.
